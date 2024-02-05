@@ -1,0 +1,7 @@
+div {
+  width: 100vw;
+  height: 100vh;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
